@@ -10,22 +10,22 @@ A mobile-first healthcare booking platform to discover health centers, book test
 ## Screenshots
 
 ### Home
-![Home](docs/screenshots/home.png)
+<img src="docs/screenshots/home.png" alt="Home" width="300" />
 
 ### Health Awareness Feed
-![Health Awareness Feed](docs/screenshots/health-awareness-feed.png)
+<img src="docs/screenshots/health-awareness-feed.png" alt="Health Awareness Feed" width="300" />
 
 ### Multi-language Guidelines
-![Multi-language Guidelines](docs/screenshots/Multilanguage.png)
+<img src="docs/screenshots/Multilanguage.png" alt="Multi-language Guidelines" width="300" />
 
 ### Health Centers Map
-![Health Centers Map](docs/screenshots/health-centers-map.png)
+<img src="docs/screenshots/health-centers-map.png" alt="Health Centers Map" width="300" />
 
 ### Book New Test
 ![Book New Test](docs/screenshots/book-new-test.png)
 
 ### My Checklist
-![My Checklist](docs/screenshots/my-checklist.png)
+<img src="docs/screenshots/my-checklist.png" alt="My Checklist" width="300" />
 
 ## Features
 
