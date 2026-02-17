@@ -1,110 +1,84 @@
-🏥 MediSlot – Smart Health Centre Booking System
+# MediSlot - Smart Health Centre Booking System
 
-Your Health Is Our Priority
-A mobile-first healthcare booking platform built with React Native (Expo).
+Your health companion to discover health centers, book tests, manage appointments, and access guidance in a mobile-first experience.
 
-📌 Overview
+## Overview
 
-MediSlot is a smart diagnostic test booking application designed to eliminate long queues, manual booking errors, and delays in accessing medical reports.
+MediSlot is a diagnostic test booking platform built with React Native (Expo). It helps reduce physical queues, booking conflicts, and delays in test/report workflows by offering real-time booking and digital verification.
 
-It provides patients with a secure, real-time, bilingual mobile platform to book medical tests, manage appointments, and access verified digital reports.
+Developed as part of SLIIT - SE3050 (Case Studies in Software Engineering).
 
-Developed as part of SLIIT – SE3050 (Case Studies in Software Engineering).
+## Key Features
 
-🚀 Key Features
-👤 Patient Module
+### Patient Module
 
-📅 Real-time test slot booking
+- Real-time test slot booking
+- Health center map view (Google Maps integration)
+- Online payment or pay-at-center options
+- QR-based booking and report verification
+- Booking history (upcoming, past, all)
+- Test preparation checklist
+- Sinhala/English language toggle
+- Health awareness feed and guidelines
 
-🗺️ Health centre map view (Google Maps integration)
+### Admin Module
 
-💳 Online payment / Pay at centre
+- Manage appointment slots
+- Upload lab results
+- Monitor bookings
+- QR-based check-in verification
 
-📄 QR-based booking & report verification
+## Tech Stack
 
-📊 Booking history (Upcoming / Past / All)
+- React Native
+- Expo
+- JavaScript (ES6+)
+- Express.js
+- React Navigation
+- Google Maps API
 
-🧾 Test preparation checklist
-
-🌐 Sinhala / English language toggle
-
-🔔 Health awareness notifications
-
-🏥 Admin Module
-
-Manage appointment slots
-
-Upload lab results
-
-Monitor bookings
-
-QR-based check-in verification
-
-🛠 Tech Stack
-
-React Native
-
-Expo Go
-
-JavaScript (ES6+)
-
-Express JS
-
-React Navigation
-
-Google Maps API
-
-🎯 Problem Solved
+## Problem Solved
 
 MediSlot addresses:
 
-Long physical queues
+- Long physical queues
+- Manual appointment errors
+- Lack of real-time slot visibility
+- Missing digital verification for bookings/reports
+- Accessibility gaps for local-language users
 
-Manual appointment errors
+## UX and Research
 
-Lack of real-time slot visibility
+- 10 user interviews
+- 25 survey responses
+- 3 field observations
+- End-to-end UX flow: brainstorming -> low-fidelity sketches -> Figma wireframes -> high-fidelity prototype -> implementation
 
-No digital report verification
+## Screenshots
 
-Poor accessibility for local-language users
+### Home and Discovery
 
-🧠 UX & Research Driven
+<p align="center">
+  <img src="docs/screenshots/home.png" alt="Home" width="260" />
+  <img src="docs/screenshots/health-awareness-feed.png" alt="Health Awareness Feed" width="260" />
+  <img src="docs/screenshots/Multilanguage.png" alt="Multi-language Guidelines" width="260" />
+</p>
 
-10 User Interviews
+### Health Centers and Booking
 
-25 Survey Responses
+<p align="center">
+  <img src="docs/screenshots/health-centers-map.png" alt="Health Centers Map" width="260" />
+  <img src="docs/screenshots/book-new-test.png" alt="Book New Test" width="260" />
+  <img src="docs/screenshots/my-checklist.png" alt="My Checklist" width="260" />
+</p>
 
-3 Field Observations
+## Run Locally
 
-Built using a full UX cycle:
-Brainstorming → Low-fidelity sketches → Figma wireframes → High-fidelity prototype → Implementation
-
-🔐 Core Highlights
-
-QR-based secure report verification
-
-Slot overbooking prevention logic
-
-Bilingual (Sinhala / English) support
-
-Accessible, high-contrast medical UI
-
-Modular component-based architecture
-
-▶️ Run Locally
+```bash
 git clone https://github.com/yourusername/medislot.git
 cd medislot
 npm install
 npx expo start
+```
 
-
-Scan the QR using Expo Go.
-
-📈 Future Improvements
-
-Backend cloud deployment
-
-AI-based health suggestions
-
-Hospital system integration
-
+Scan the QR code using Expo Go.
