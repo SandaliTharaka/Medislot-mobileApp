@@ -56,21 +56,14 @@ MediSlot addresses:
 
 ## Screenshots
 
-### Home and Discovery
-
-<p align="center">
-  <img src="docs/screenshots/home.png" alt="Home" width="260" />
-  <img src="docs/screenshots/health-awareness-feed.png" alt="Health Awareness Feed" width="260" />
-  <img src="docs/screenshots/Multilanguage.png" alt="Multi-language Guidelines" width="260" />
-</p>
-
-### Health Centers and Booking
-
-<p align="center">
-  <img src="docs/screenshots/health-centers-map.png" alt="Health Centers Map" width="260" />
-  <img src="docs/screenshots/book-new-test.png" alt="Book New Test" width="260" />
-  <img src="docs/screenshots/my-checklist.png" alt="My Checklist" width="260" />
-</p>
+| Screen | Preview |
+| --- | --- |
+| Home | <img src="docs/screenshots/home.png" alt="Home" width="240" /> |
+| Health Awareness Feed | <img src="docs/screenshots/health-awareness-feed.png" alt="Health Awareness Feed" width="240" /> |
+| Multi-language Guidelines | <img src="docs/screenshots/Multilanguage.png" alt="Multi-language Guidelines" width="240" /> |
+| Health Centers Map | <img src="docs/screenshots/health-centers-map.png" alt="Health Centers Map" width="240" /> |
+| Book New Test | <img src="docs/screenshots/book-new-test.png" alt="Book New Test" width="240" /> |
+| My Checklist | <img src="docs/screenshots/my-checklist.png" alt="My Checklist" width="240" /> |
 
 ## Run Locally
 
